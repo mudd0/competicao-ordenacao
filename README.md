@@ -22,5 +22,6 @@ está em ordem crescente.
 ![Execução no terminal](print.png)
 
 ## Equipe
-1. Nome Completo — Líder
-2. Nome Completo
+1. Victor Hugo Mota Alcantara
+2. Jayane Lima Fernandes
+3. Kevin Soares de Oliveira
